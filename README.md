@@ -82,6 +82,6 @@
 &nbsp;
 <br />
 
-## 🔭 Currently working in
-![greatgoat_wide](https://github.com/microgift/microgift/assets/127183857/20ee6ba9-180e-421a-83bc-0f0a9da6123d)
+## 🔭 Currently working in Pioneer Legends
+![pioneerlegends](https://github.com/microgift/microgift/assets/127183857/b2aed01d-872a-4c2d-b9c5-f1470d75efe6)
 
