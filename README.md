@@ -82,6 +82,3 @@
 &nbsp;
 <br />
 
-## 🔭 Currently working in Pioneer Legends
-![pioneerlegends](https://github.com/microgift/microgift/assets/127183857/b2aed01d-872a-4c2d-b9c5-f1470d75efe6)
-
